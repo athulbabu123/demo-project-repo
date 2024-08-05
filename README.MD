@@ -58,29 +58,29 @@ capabilities to manage users and view their transactions.
 
 
 1.  Initialize the
-    backend:![](vertopal_5f6a181f7ad645fa81c33648ea9650ec/media/image1.emf)
+    backend:![](vertopal_5f6a181f7ad645fa81c33648ea9650ec/image1.emf)
 
 2.  Install
-    dependencies:![](vertopal_5f6a181f7ad645fa81c33648ea9650ec/media/image2.emf)
+    dependencies:![](vertopal_5f6a181f7ad645fa81c33648ea9650ec/image2.emf)
 
 ### Frontend Setup
 
 1.  Create the React
-    application:![](vertopal_5f6a181f7ad645fa81c33648ea9650ec/media/image3.emf)
+    application:![](vertopal_5f6a181f7ad645fa81c33648ea9650ec/image3.emf)
 
 2.  Install
-    dependencies:![](vertopal_5f6a181f7ad645fa81c33648ea9650ec/media/image4.emf)
+    dependencies:![](vertopal_5f6a181f7ad645fa81c33648ea9650ec/image4.emf)
 
 ### Running the Project
 
 -   **Running the
-    Backend:**![](vertopal_5f6a181f7ad645fa81c33648ea9650ec/media/image5.emf)
+    Backend:**![](vertopal_5f6a181f7ad645fa81c33648ea9650ec/image5.emf)
 
 -   **Running the Frontend:**
-    ![](vertopal_5f6a181f7ad645fa81c33648ea9650ec/media/image6.emf)
+    ![](vertopal_5f6a181f7ad645fa81c33648ea9650ec/image6.emf)
 
 -   **Running Both Frontend and
-    Backend:**![](vertopal_5f6a181f7ad645fa81c33648ea9650ec/media/image7.emf)
+    Backend:**![](vertopal_5f6a181f7ad645fa81c33648ea9650ec/image7.emf)
 
 ## 3. User Manual
 
