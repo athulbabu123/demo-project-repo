@@ -27,19 +27,11 @@ InsightTrack is a personal finance management web application built using the ME
 - npm
 ### Backend Setup
 1. Initialize the backend:
-
-bash
-
-Copy code
-
+```bash
 npm init -y
 
 1. Install dependencies:
-
-bash
-
-Copy code
-
+```bash
 npm install express mongoose cors morgan dotenv colors portfinder
 ### Frontend Setup
 1. Create the React application:
