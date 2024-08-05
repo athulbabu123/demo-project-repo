@@ -29,57 +29,36 @@ InsightTrack is a personal finance management web application built using the ME
 1. Initialize the backend:
 ```bash
 npm init -y
-
+```
 1. Install dependencies:
 ```bash
 npm install express mongoose cors morgan dotenv colors portfinder
+```
 ### Frontend Setup
 1. Create the React application:
-
-bash
-
-Copy code
-
+```bash
 npx create-react-app client
-
-1. Install dependencies:
-
-bash
-
-Copy code
-
+```
+2. Install dependencies:
+```bash
 cd client
-
 npm install axios react-router-dom redux react-redux bootstrap @ant-design/icons @mui/material @mui/icons-material @mui/x-data-grid recharts moment dayjs react-icons
-
+```
 **Running the Project**
 
 - **Running the Backend:**
-
-bash
-
-Copy code
-
+```bash
 npm run server
-
+```
 - **Running the Frontend:**
-
-bash
-
-Copy code
-
+```bassh
 cd client
-
 npm start
-
+```
 - **Running Both Frontend and Backend:**
-
-bash
-
-Copy code
-
+```bash
 npm run dev
-
+```
 -----
 ## 3\. User Manual
 ### Login and Signup
